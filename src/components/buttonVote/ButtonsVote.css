@@ -1,0 +1,9 @@
+.content-header__btn {
+  padding: 1em 2em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.content-header__btn:hover {
+  background-color: #ccc;
+}

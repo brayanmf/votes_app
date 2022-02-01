@@ -1,0 +1,22 @@
+{
+    "candidatos": [
+      { "id": 1,
+        "name": "Candidato1",
+
+        "votes": 0
+      },
+      { "id": 2,
+        "name": "Candidato2",
+
+        "votes": 0
+      },
+      {  "id": 3,
+        "name": "Candidato3",
+        "votes": 0
+      },
+      {"id": 4,
+        "name": "Candidato4",
+        "votes": 0
+      }
+    ]
+  }
